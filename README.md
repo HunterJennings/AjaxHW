@@ -1,1 +1,2 @@
 # AjaxHW
+This project is talking about favorite animals. I have listed a few of my favorite animals already in which you can go and enjoy some gifs of, but if you would like you can make your own button with the input bar and add some of your favorite animals too! If you get bored of animals you can look at gifs from anything that you search! have fun! 
